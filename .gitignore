@@ -1,0 +1,5 @@
+# виртуальное окружение
+venv/
+info.txt
+.env
+git_use.txt
